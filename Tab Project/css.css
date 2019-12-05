@@ -28,6 +28,15 @@ h1 {
 }
 .tabContainer .buttonContainer button:hover {
   background-color: black;
+  color: white;
 }
 .tabContainer .tabPanel {
+  height: 85%;
+  background-color: grey;
+  color: white;
+  text-align: center;
+  padding-top: 105px;
+  box-sizing: border-box;
+  font-size: 22px;
+  display: none;
 }
