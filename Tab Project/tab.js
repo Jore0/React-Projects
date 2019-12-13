@@ -1,7 +1,7 @@
 let tabButtons = document.querySelectorAll(
   ".tabContainer .buttonContainer button"
 );
-debugger;
+// debugger;
 let tabPanels = document.querySelectorAll(".tabContainer .tabPanel");
 
 function tabSelector(tabIndex, color) {
